@@ -1,5 +1,5 @@
 {
-  "name": "mannysoft/elasticquent",
+  "name": "mannysoft/elastic",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
